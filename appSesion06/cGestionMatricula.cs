@@ -37,7 +37,14 @@ namespace appSesion06
 
         public List<cAlumno> listarAlumnosDeCurso(string codigo_curso)
         {
-            
+            cCurso curso_encontrado=Cursos.Find(delegate (cCurso value) {
+                return value.Codigo == codigo_curso;
+            });
+
+            if (curso_encontrado != null)
+                return curso_encontrado.Alumnos;
+            else
+                return null;
         }
 
         public cCurso dameCursoConMasAlumnos()
