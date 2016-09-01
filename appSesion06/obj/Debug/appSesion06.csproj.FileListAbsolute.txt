@@ -1,0 +1,12 @@
+C:\Users\HAMP\Desktop\FSI\Semana 3\Sesion 6 ( Blended )\Ejercicio\appSesion06\appSesion06\bin\Debug\appSesion06.exe.config
+C:\Users\HAMP\Desktop\FSI\Semana 3\Sesion 6 ( Blended )\Ejercicio\appSesion06\appSesion06\bin\Debug\appSesion06.exe
+C:\Users\HAMP\Desktop\FSI\Semana 3\Sesion 6 ( Blended )\Ejercicio\appSesion06\appSesion06\bin\Debug\appSesion06.pdb
+C:\Users\HAMP\Desktop\FSI\Semana 3\Sesion 6 ( Blended )\Ejercicio\appSesion06\appSesion06\obj\Debug\appSesion06.csprojResolveAssemblyReference.cache
+C:\Users\HAMP\Desktop\FSI\Semana 3\Sesion 6 ( Blended )\Ejercicio\appSesion06\appSesion06\obj\Debug\appSesion06.frmIngresoAlumno.resources
+C:\Users\HAMP\Desktop\FSI\Semana 3\Sesion 6 ( Blended )\Ejercicio\appSesion06\appSesion06\obj\Debug\appSesion06.frmIngresoDeCurso.resources
+C:\Users\HAMP\Desktop\FSI\Semana 3\Sesion 6 ( Blended )\Ejercicio\appSesion06\appSesion06\obj\Debug\appSesion06.frmListarAlumnosMatriculados.resources
+C:\Users\HAMP\Desktop\FSI\Semana 3\Sesion 6 ( Blended )\Ejercicio\appSesion06\appSesion06\obj\Debug\appSesion06.frmPrincipal.resources
+C:\Users\HAMP\Desktop\FSI\Semana 3\Sesion 6 ( Blended )\Ejercicio\appSesion06\appSesion06\obj\Debug\appSesion06.Properties.Resources.resources
+C:\Users\HAMP\Desktop\FSI\Semana 3\Sesion 6 ( Blended )\Ejercicio\appSesion06\appSesion06\obj\Debug\appSesion06.csproj.GenerateResource.Cache
+C:\Users\HAMP\Desktop\FSI\Semana 3\Sesion 6 ( Blended )\Ejercicio\appSesion06\appSesion06\obj\Debug\appSesion06.exe
+C:\Users\HAMP\Desktop\FSI\Semana 3\Sesion 6 ( Blended )\Ejercicio\appSesion06\appSesion06\obj\Debug\appSesion06.pdb
