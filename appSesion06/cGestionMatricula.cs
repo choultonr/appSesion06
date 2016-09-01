@@ -8,23 +8,31 @@ namespace appSesion06
 {
     public class cGestionMatricula
     {
-        //Lista de cursos donde un alumno se puede matricular:lista general de cursos
+        //Lista de cursos donde un alumno se puede matricular: lista general de cursos disponibles
         //static: 
         
+        public List<cCurso> Cursos { get; set; }
 
         public cGestionMatricula()
         {
-            
+            if (Cursos == null)
+            //Crear la lista
+            Cursos = new List<cCurso>();
         }
 
         public void insertarCurso(cCurso curso)
         {
-            
+            Cursos.Add(curso);
         }
 
         public void insertarAlumnoEnCurso(string codigo_curso,cAlumno alumno)
         {
-            
+            cCurso curso_encontrado=Cursos.Find(delegate (cCurso value) {
+                return value.Codigo == codigo_curso;
+            });
+
+            if (curso_encontrado != null)
+                curso_encontrado.Alumnos.Add(alumno);
         }
 
         public List<cAlumno> listarAlumnosDeCurso(string codigo_curso)
